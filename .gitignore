@@ -1,0 +1,147 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+logs
+
+output/
+archive/
+examples/
+examples2/
+__pycache__/
+.ipynb_checkpoints/
+output/
+kubernetes/
+3dmodel/MosMedData/
+#model files
+*.pth
+*.h5
+
+keys/
+output/
+*.jpg
+*.png
+image/image_tagger/models/
+image/image_captioning/models/
+image/nsfw/app/models/
+image/nsfw/app/data/
+out/
+archive/
+nlp/app/output/
+nlp/app/out/
+nlp/app/out_semantic/
+nlp/pii/pii_analyzer/output
+.vscode/
+lightning_logs/
+nlp/app/models/
+nlp/translate/models/
+nlp/app/classification/models/classification/
+nlp/app/sentiment/models/sentiment/
+nlp/app/hate/models/hate/
+nlp/app/semantic/models/semantic/
+nlp/app/translate/models/
+notebooks
+/.vs
+image/ocr/app/temp/
+tests/keys/
+app/temp/
+app/tessdata
+app/keys
